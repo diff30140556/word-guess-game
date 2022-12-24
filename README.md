@@ -1,6 +1,8 @@
 # word-guess-game
 This is a little word guess game
 
+To play, please [Click Here.](https://diff30140556.github.io/word-guess-game/)
+
 # Module 04 Mini-Project: Word Guess
 
 In this activity, you will work with a group to build a game using JavaScript and Web APIs.
